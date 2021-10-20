@@ -1,0 +1,11 @@
+* 1. Find the data whose delayDate is greater than 10
+ * 2. Find the data whose delayDate is between 5 and 10
+ * 3. Find the data whose year is 2020
+ * 4. Find the data whose amount is greater than 50000
+ * 5. Find the data whose amount is in between 20000 and 60000
+ * 6. Find the sum of amount whose delay date is 0
+ * 7. Find the sum of amount grouping by the month (eg : JAN ko sum , FEB ko sum)
+ * 8. Find the total amount on yearly basis and on overall
+ * 9. Find the total delay date.
+ * 10. Find the sum whose delay date is maximum on every year.
+
